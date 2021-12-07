@@ -1,0 +1,6 @@
+sudoku_size=9
+no_of_ants=50
+greediness=0
+local_pheroperator=0.1
+global_pheroperator=0.9
+best_evaporation=0.005
